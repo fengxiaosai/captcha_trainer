@@ -1,3 +1,4 @@
+ubuntu16.04 + CUDA9.0 + cuDNN7.1.4 + tensorflow1.18
 # 项目介绍
 
 验证码识别 - 该项目是基于 CNN5/ResNet+BLSTM/LSTM/GRU/SRU/BSRU+CTC 来实现验证码识别. 
